@@ -1,0 +1,18 @@
+nav
+{
+	text-align: right;
+	padding: 30px 50px 0 0;
+}
+
+nav > a
+{
+color: blu;
+font-weight: 306;
+text-decoration: none;
+margin-right: 15px;
+}
+
+nav > a:hover
+{
+	text-decoration: under line;
+}
